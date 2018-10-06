@@ -1,7 +1,12 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: RIKID
- * Date: 29/09/2018
- * Time: 18:35
- */
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/footer.css">
+</head>
+<body>
+    <div id="footer">
+        <p>C'EST LA FIN DE MON SITE!!!!!!</p>
+    </div>
+</body>
+</html>

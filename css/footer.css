@@ -1,0 +1,11 @@
+#footer
+{
+    bottom: 0;
+    position : absolute;
+    background: chartreuse;
+    border : solid;
+    border-radius: 10px;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}

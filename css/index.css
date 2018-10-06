@@ -1,0 +1,11 @@
+#index
+{
+    float: center;
+    background-color: darkmagenta;
+    border: solid;
+    border-radius: 10px;
+    margin-left: 22%;
+    margin-right: 10%;
+    height: 100%;
+    position: relative;
+}

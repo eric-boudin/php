@@ -5,6 +5,6 @@
     <link rel="stylesheet" href="../css/header.css">
 </head>
 <body>
-    <h1>BIENVENUE SUR MON SITE!!!!!</h1>
+    <h1 id="header">BIENVENUE SUR MON SITE!!!!!</h1>
 </body>
 </html>
